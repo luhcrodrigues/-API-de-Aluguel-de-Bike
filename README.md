@@ -1,7 +1,9 @@
-https://citibikenyc.com/system-data
+
 
 
 # Desafio de Dados: Consumindo API de Aluguel de Bicicleta
+
+link:https://citibikenyc.com/system-data
 
 Este repositório contém soluções para diversos problemas relacionados à obtenção e análise de dados de aluguel de bicicletas de uma API. As soluções são implementadas em Python e utilizam tabelas SQL para armazenar e apresentar os resultados.
 
