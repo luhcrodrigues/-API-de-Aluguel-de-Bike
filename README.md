@@ -1,5 +1,4 @@
-# API-de-Aluguel-de-Bike
-Consumo da API de Aluguel de Bicicleta
+
 
 
 # Desafio de Dados: Consumindo API de Aluguel de Bicicleta
