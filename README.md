@@ -14,7 +14,7 @@ Este repositório contém soluções para diversos problemas relacionados à obt
 
 ## Descrição
 
-Este repositório tem como objetivo resolver problemas relacionados ao consumo de dados de aluguel de bicicletas de uma API. As soluções são implementadas em Python e utilizam consultas SQL para armazenar e apresentar os resultados.
+Este repositório tem como objetivo resolver problemas relacionados ao consumo de dados de aluguel de bicicletas de uma API. As soluções são implementadas em PySpark e utilizam consultas SQL para armazenar e apresentar os resultados.
 
 ## Problemas a serem resolvidos
 
