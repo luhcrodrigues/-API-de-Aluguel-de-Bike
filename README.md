@@ -34,4 +34,5 @@ Este repositório tem como objetivo resolver problemas relacionados ao consumo d
 
 ## Soluções
 
-As soluções para os problemas listados acima foram implementadas em Python e utilizam consultas SQL para interagir com os dados. Você pode encontrar as consultas SQL correspondentes a cada problema no arquivo `queries.sql`.
+As soluções para os problemas listados acima foram implementadas em PySpark e utilizam consultas SQL(`queries.sql`)
+ para interagir com os dados.
